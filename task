@@ -22,4 +22,17 @@
     <p> My Location is Qspider</p>
     <p> My Location is room no. 2</p>
 </html>
+driver.manage().window().maximize();
+driver.manage().window().minimize();
+driver.manage().window().fullscreen();
+driver.manage().window().getsize();
+driver.manage().window().setsize();
+driver.manage().window().getPosition();
+driver.manage().window().setPosition();
+
+
+
+
+
+
 
